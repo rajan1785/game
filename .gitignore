@@ -1,0 +1,6 @@
+node_modules/
+web/game.js
+web/game.js.map
+dist/
+*.log
+.DS_Store

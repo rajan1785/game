@@ -1,0 +1,9 @@
+{
+  "appId": "com.yourstudio.luminablocks",
+  "appName": "Lumina Blocks",
+  "webDir": "web",
+  "backgroundColor": "#0a0c1c",
+  "android": {
+    "backgroundColor": "#0a0c1c"
+  }
+}
